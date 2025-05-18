@@ -2,9 +2,9 @@
 
 import sys
 
-from . import ioUser
-from .Tiled2ZX0 import Tiled2ZX0
-from . import helper
+from tiled2bin import ioUser
+from tiled2bin.Tiled2ZX0 import Tiled2ZX0
+from tiled2bin import helper
 
 def main(argv=None):
     if argv is None:

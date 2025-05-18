@@ -6,7 +6,7 @@ README = (HERE / "README.md").read_text()
 
 setup(
     name='tiled2zx0',
-    version='0.2',
+    version='0.3',
     author='Raül Torralba',
     description='Convert tmx Tiled map to ZX0 compressed file',
     long_description=README,
