@@ -9,14 +9,7 @@ pip install tiled2zx0
 ## Run
 
 ```bash
-usage: tiled2zx0 [-h] [-o OUTPUT_FILE] /path/map.tmx
-
-Process some arguments.
-
-options:
-  -h, --help            show this help message and exit
-  -h OUTPUT_FILE, --output OUTPUT
-                        Output file
+usage: tiled2zx0 [-h] [-m OUTPUT_MAP_FILE] [-o OUTPUT_MAP_OFFSETS_FILE] [-b OUTPUT_BORIEL_FILE] /path/map.tmx
 ```
 
 ## Attribution

@@ -8,3 +8,4 @@ dist/*
 tiled2zx0.egg-info/*
 *.zx0
 *.json
+venv/
