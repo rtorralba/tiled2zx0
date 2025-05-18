@@ -1,0 +1,8 @@
+*.bas
+__pycache__
+*.bin
+*.png
+*.zxp
+build/*
+dist/*
+tiled2zx0.egg-info/*
