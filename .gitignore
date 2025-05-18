@@ -6,3 +6,5 @@ __pycache__
 build/*
 dist/*
 tiled2zx0.egg-info/*
+*.zx0
+*.json
